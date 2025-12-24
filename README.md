@@ -27,4 +27,4 @@ It allows users to search any city and view real-time weather information includ
 ## 📦 How to Use
 1️⃣ Clone or download this repository  
 ```bash
-git clone https://github.com/your-username/weather-app.git
+https://github.com/Piyush-Inovation/SkyCast-Simple-Weather-App.git
